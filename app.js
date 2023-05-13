@@ -15,5 +15,5 @@ app.use('/student',studentRoutes)
 
 
 app.listen(port,()=>{
-    console.log(`in port ${port}`)
+    console.log(' in port 5000')
 })
